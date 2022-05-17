@@ -109,7 +109,7 @@ Here's a ***[cat][id1]***, don't pat:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## What am I up to?
-Currently studying web development while working on my first job :)
+Currently studying web development while at my first job :)
 
 ### "Fun" fact
 I might spend a bit too much time surfing the internet 🤫
