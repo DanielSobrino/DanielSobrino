@@ -1,21 +1,8 @@
-### :handshake: Hi there, I'm Daniel
+### :handshake: Hi there, I'm Daniel 
 # Welcome to my ![profile](https://user-images.githubusercontent.com/30053576/168892720-1814b91d-3826-4fb3-b0ee-70c7414e1b31.gif)
+![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue) 🧍 🧜
 
-<!--
-**DanielSobrino/DanielSobrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### About me
 I love animals, reading, videogames, food and consuming internet resources.
 
 [id1]: ## "Whiskers, age 1"
@@ -23,9 +10,7 @@ Here's a ***[cat][id1]***, don't pat:
 
 <a href="https://user-images.githubusercontent.com/30053576/168830827-baa0887d-e638-4646-b4ae-135a3dedaad5.png"><img src="https://user-images.githubusercontent.com/30053576/168896185-d73a3e00-235c-492a-9127-7ba41907e616.gif" width="50"/></a>
 
-![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue) 🧍 🧜
-
-<details>
+<details open>
 <summary>
   
   ## Dev stuff I've put my hands on
