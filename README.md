@@ -26,7 +26,12 @@ Here's a ***[cat][id1]***, don't pat:
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue) 🧍 🧜
 
 ## Dev stuff I've put my hands on
-> Acknowledgement: many of the following tools I have little to barely any experience with, but it sure looks fancy.
+
+<details>
+<summary>Open to see</summary>
+<br>
+
+> Acknowledgement: many of the following tools I have little to barely any experience with, but they sure looks fancy.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -108,6 +113,8 @@ Here's a ***[cat][id1]***, don't pat:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</details>
+  
 ## What am I up to?
 Currently studying web development while at my first job :)
 
