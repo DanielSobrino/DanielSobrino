@@ -29,7 +29,7 @@ Here's a ***[cat][id1]***, don't pat:
   
 </summary>
 
-> Acknowledgement: some of the following tools I have little to barely any experience with, but they sure looks fancy.
+> Acknowledgement: some of the following tools I have little to barely any experience with, but they sure look fancy in my profile.
   
   <div align="center">  
   
@@ -125,17 +125,26 @@ Here's a ***[cat][id1]***, don't pat:
 ## What am I up to?
 #### Main quest
 Currently studying web development while at my first job
-#### Side quests
-Learning ThreeJS, Quarkus and a couple things here and there
+
   
 </div>  
 </td><td valign="top" width="50%">
+#### Side quests
+- ThreeJS
+- Quarkus
+- A couple things here and there, as always
+
+</td></tr></table>
+<br/>
+<br/>
+<br/>
+
+<div align="center">
   
 ## Github Stats
-  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danielsobrino&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-</td></tr></table>
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=danielsobrino&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 <br/>
 <br/>
 <br/>
