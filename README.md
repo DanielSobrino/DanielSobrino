@@ -19,19 +19,21 @@ Here are some ideas to get you started:
 I love animals, reading, videogames, food and consuming internet resources.
 
 [id1]: ## "Whiskers, age 1"
-Here's a <a href="#" style="text-decoration: none;" >***[cat][id1]***</a>, don't pat:
+Here's a ***[cat][id1]***, don't pat:
 
 <a href="https://user-images.githubusercontent.com/30053576/168830827-baa0887d-e638-4646-b4ae-135a3dedaad5.png"><img src="https://user-images.githubusercontent.com/30053576/168896185-d73a3e00-235c-492a-9127-7ba41907e616.gif" width="50"/></a>
 
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue) 🧍 🧜
 
-## Dev stuff I've put my hands on
-
 <details>
-<summary>Open to see</summary>
+<summary>
+  
+  ## Dev stuff I've put my hands on
+  
+</summary>
 <br>
 
-> Acknowledgement: many of the following tools I have little to barely any experience with, but they sure looks fancy.
+> Acknowledgement: some of the following tools I have little to barely any experience with, but they sure looks fancy.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
