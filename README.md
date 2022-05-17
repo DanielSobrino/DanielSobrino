@@ -107,3 +107,5 @@ Currently studying web development while at my first job :)
 
 ### "Fun" fact
 I might spend a bit too much time surfing the internet 🤫
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
