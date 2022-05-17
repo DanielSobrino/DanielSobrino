@@ -1,6 +1,6 @@
 ### :handshake: Hi there, I'm Daniel 
 # Welcome to my ![profile](https://user-images.githubusercontent.com/30053576/168904131-9809b903-2dba-4c93-a588-79709e048f70.gif)
-![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue) 🧍 🧜
+![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue)
 
 ### About me
 I love animals, reading, videogames, food and consuming internet resources.
