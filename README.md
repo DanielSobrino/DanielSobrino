@@ -1,5 +1,5 @@
 ### :handshake: Hi there, I'm Daniel 
-# Welcome to my ![profile](https://user-images.githubusercontent.com/30053576/168892720-1814b91d-3826-4fb3-b0ee-70c7414e1b31.gif)
+# Welcome to my ![profile](https://user-images.githubusercontent.com/30053576/168904131-9809b903-2dba-4c93-a588-79709e048f70.gif)
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue) 🧍 🧜
 
 ### About me
