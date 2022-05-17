@@ -118,25 +118,24 @@ Here's a ***[cat][id1]***, don't pat:
 <br/>
 <br/>
 <br/>
-
-<table><tr><td valign="top" width="50%">
 <div align="center">
   
 ## What am I up to?
-#### Main quest
+  
+<table><tr><td valign="top" width="50%">
+
+### Main quest
 Currently studying web development while at my first job
 
-  
-</div>  
 </td><td valign="top" width="50%">
-#### Side quests
+
+### Side quests
 - ThreeJS
 - Quarkus
 - A couple things here and there, as always
 
 </td></tr></table>
-<br/>
-<br/>
+</div>  
 <br/>
 
 <div align="center">
