@@ -155,3 +155,7 @@ Currently studying web development while at my first job
 > I might spend a bit too much time surfing the internet 🤫
 >
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<p align = "center">
+	<img src = "https://github.com/danielsobrino/danielsobrino/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
