@@ -1,16 +1,18 @@
 <div align="center">
 
-### :handshake: Hi there, I'm Daniel 
+### :handshake: Hi there, I'm Daniel
   
-# Welcome to my <br>
-  <br> ![profile](https://user-images.githubusercontent.com/30053576/168904131-9809b903-2dba-4c93-a588-79709e048f70.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my;+&center=true&font=Kalam)](https://git.io/typing-svg)
+
+![profile](https://user-images.githubusercontent.com/30053576/168904131-9809b903-2dba-4c93-a588-79709e048f70.gif)
+  
 </div>
 
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue)
   
 <br/>
   
-### About me
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+me&color=33cc33)](https://git.io/typing-svg)
 I love animals, reading, videogames, food and consuming internet resources.
 
 [id1]: ## "Whiskers, age 1"
@@ -140,7 +142,7 @@ Currently studying web development while at my first job
 
 <div align="center">
   
-## Github Stats
+### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=danielsobrino&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -148,7 +150,7 @@ Currently studying web development while at my first job
 <br/>
 <br/>
 
-> ### "Fun" fact
+> ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fun+fact&width=90&height=20&vCenter=true&color=ff6600&duration=2000&font=Lobster&size=20)](https://git.io/typing-svg)
 > I might spend a bit too much time surfing the internet 🤫
 >
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
