@@ -2,7 +2,7 @@
 
 ### :handshake: Hi there, I'm Daniel
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my;+&center=true&font=Kalam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my;+&center=true&font=Kalam&width=150)](https://git.io/typing-svg)
 
 ![profile](https://user-images.githubusercontent.com/30053576/168904131-9809b903-2dba-4c93-a588-79709e048f70.gif)
   
@@ -32,8 +32,6 @@ Here's a ***[cat][id1]***, don't pat:
 </summary>
 
 > Acknowledgement: some of the following tools I have little to barely any experience with, but they sure look fancy in my profile.
-  
-  <div align="center">  
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -126,12 +124,12 @@ Here's a ***[cat][id1]***, don't pat:
   
 <table><tr><td valign="top" width="50%">
 
-### Main quest
+### <img src="https://user-images.githubusercontent.com/30053576/169019543-42f023d1-8331-48d8-a91f-c980c9b7da10.png" width="30"/> Main quest
 Currently studying web development while at my first job
 
 </td><td valign="top" width="50%">
 
-### Side quests
+### <img src="https://user-images.githubusercontent.com/30053576/169022106-c68ced10-0d8d-408c-8369-8188cabe4d36.png" width="30"/> Side quests
 - ThreeJS
 - Quarkus
 - A couple things here and there, as always
@@ -142,9 +140,12 @@ Currently studying web development while at my first job
 
 <div align="center">
   
-### Github Stats
+## Github
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielsobrino&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=danielsobrino&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+</div>  
+<a href="https://github.com/danielsobrino"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danielsobrino&custom_title=My%20Activity%20Graph&theme=react-dark" /></a>
 
 <br/>
 <br/>
