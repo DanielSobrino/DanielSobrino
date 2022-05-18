@@ -156,4 +156,8 @@ Currently studying web development while at my first job
 >
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<div align="center">
+  
 ![snake gif](https://github.com/danielsobrino/danielsobrino/blob/output/github-contribution-grid-snake.gif)
+
+</div> 
