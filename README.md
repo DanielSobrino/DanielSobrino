@@ -156,6 +156,4 @@ Currently studying web development while at my first job
 >
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<p align = "center">
-	<img src = "https://github.com/danielsobrino/danielsobrino/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/danielsobrino/danielsobrino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/danielsobrino/danielsobrino/output/github-contribution-grid-snake.svg#gh-light-mode-only)
