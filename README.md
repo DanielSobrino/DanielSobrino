@@ -131,7 +131,8 @@ Currently studying web development while at my first job
 
 ### <img src="https://user-images.githubusercontent.com/30053576/169022106-c68ced10-0d8d-408c-8369-8188cabe4d36.png" width="30"/> Side quests
 - ThreeJS
-- Quarkus
+- Discord bot
+- Flask
 - A couple things here and there, as always
 
 </td></tr></table>
