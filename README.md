@@ -153,7 +153,7 @@ Currently studying web development while at my first job
 <br/>
 
 > ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fun+fact&width=90&height=20&vCenter=true&color=ff6600&duration=2000&font=Lobster&size=20)](https://git.io/typing-svg)
-> I might spend a bit too much time surfing the internet 🤫
+> I lack fun facts so there you go
 >
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
 
