@@ -31,7 +31,7 @@ Here's a ***[cat][id1]***, don't pat:
   
 </summary>
 
-> Acknowledgement: some of the following tools I have little to barely any experience with, but they sure look fancy in my profile.
+> Acknowledgement: some of the following tools I have little to barely any experience with, but they sure look fancy on my profile.
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -132,7 +132,7 @@ Currently studying web development while at my first job
 ### <img src="https://user-images.githubusercontent.com/30053576/169022106-c68ced10-0d8d-408c-8369-8188cabe4d36.png" width="30"/> Side quests
 - ThreeJS
 - Discord bot
-- Flask
+- Spotify toolbar
 - A couple things here and there, as always
 
 </td></tr></table>
