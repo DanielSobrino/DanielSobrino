@@ -21,5 +21,5 @@ jobs:
                   CONFIG_FILE: /home/runner/work/minecraft-contribution-chart-github/minecraft-contribution-chart-github/configChart.json
                   USERNAME: DanielSobrino
                   TOKEN: ${{ secrets.TOKEN }}
-                  run: npm start
+              run: npm start
               
