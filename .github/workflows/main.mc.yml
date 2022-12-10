@@ -4,12 +4,15 @@ on:
     schedule:
         - cron: "0 */6 * * *"
     workflow_dispatch:
-
+        
 jobs:
     build:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
+              with:
+                  # Add the GITHUB_TOKEN secret to the step
+                  token: ${{ secrets.TOKEN }}
             - name: Print working directory
               run: pwd
             - name: List everything on the working directory
