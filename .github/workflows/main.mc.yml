@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/download-artifact@v2
       with:
-        name: minecraft-contribution-graph
+        name: contribution-chart
     - name: Insert the GIF into the profile
       run: |
         # Insert the GIF file into your profile here
