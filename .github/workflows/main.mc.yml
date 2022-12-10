@@ -24,7 +24,7 @@ jobs:
             - name: Generate the GIF
               env:
                   CONFIG_FILE: /home/runner/work/DanielSobrino/DanielSobrino/minecraft-contribution-chart-github/configChart.json
-                  USERNAME: DanielSobrino
+                  USERNAME: danielsobrino
                   TOKEN: ${{ secrets.TOKEN }}
               run: npm start minecraft-contribution-chart-github/package.json
               
