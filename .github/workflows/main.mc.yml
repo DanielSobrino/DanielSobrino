@@ -10,15 +10,17 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
+            - name: Print working directory
+              run: pwd
             - name: List everything on the working directory
-              run: ls /home/runner/work/minecraft-contribution-chart-github/minecraft-contribution-chart-github
+              run: ls /home/runner/work/danielsobrino/danielsobrino
             - name: Install submodule dependencies
               run: npm install --prefix ./submodule
             - name: Move to the submodule
               run: cd path/to/submodule
             - name: Generate the GIF
               env:
-                  CONFIG_FILE: /home/runner/work/minecraft-contribution-chart-github/minecraft-contribution-chart-github/configChart.json
+                  CONFIG_FILE: /home/runner/work/danielsobrino/danielsobrino/configChart.json
                   USERNAME: DanielSobrino
                   TOKEN: ${{ secrets.TOKEN }}
               run: npm start
