@@ -1,17 +1,25 @@
-name: minecraft-contribution-graph
+name: contribution-chart
 
 on:
-  release:
-    types: [published]
-  workflow_dispatch:
+    schedule:
+        - cron: '0 */12 * * *'
+    workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/download-artifact@v2
-      with:
-        name: contribution-chart
-    - name: Insert the GIF into the profile
-      run: |
-        # Insert the GIF file into your profile here
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: List everything on the working directory
+              run: ls /home/runner/work/minecraft-contribution-chart-github/minecraft-contribution-chart-github
+            - name: Install submodule dependencies
+              run: npm install --prefix ./submodule
+            - name: Generate the GIF
+              env:
+                  CONFIG_FILE: /home/runner/work/minecraft-contribution-chart-github/minecraft-contribution-chart-github/configChart.json
+                  USERNAME: DanielSobrino
+                  TOKEN: ${{ secrets.TOKEN }}
+            - name: Move to submodule
+              run: cd path/to/submodule
+            - name: Start submodule
+              run: npm start
