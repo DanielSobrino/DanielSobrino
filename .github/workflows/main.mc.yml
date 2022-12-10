@@ -1,0 +1,16 @@
+name: minecraft-contribution-graph
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/download-artifact@v2
+      with:
+        name: minecraft-contribution-graph
+    - name: Insert the GIF into the profile
+      run: |
+        # Insert the GIF file into your profile here
