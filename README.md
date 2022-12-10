@@ -12,7 +12,7 @@
   
 <br/>
 
-![minecraft gif](https://github.com/danielsobrino/danielsobrino/blob/output/minecraft-contribution-graph.gif)
+![minecraft gif](minecraft-contribution-graph.gif)
 
   
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+me&color=33cc33)](https://git.io/typing-svg)
