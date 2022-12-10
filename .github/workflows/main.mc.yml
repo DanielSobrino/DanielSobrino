@@ -3,6 +3,7 @@ name: minecraft-contribution-graph
 on:
   release:
     types: [published]
+  workflow_dispatch:
 
 jobs:
   build:
