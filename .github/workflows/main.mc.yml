@@ -14,12 +14,12 @@ jobs:
               run: ls /home/runner/work/minecraft-contribution-chart-github/minecraft-contribution-chart-github
             - name: Install submodule dependencies
               run: npm install --prefix ./submodule
+            - name: Move to the submodule
+              run: cd path/to/submodule
             - name: Generate the GIF
               env:
                   CONFIG_FILE: /home/runner/work/minecraft-contribution-chart-github/minecraft-contribution-chart-github/configChart.json
                   USERNAME: DanielSobrino
                   TOKEN: ${{ secrets.TOKEN }}
-            - name: Move to submodule
-              run: cd path/to/submodule
-            - name: Start submodule
-              run: npm start
+                  run: npm start
+              
