@@ -13,14 +13,14 @@ jobs:
             - name: Print working directory
               run: pwd
             - name: List everything on the working directory
-              run: ls /home/runner/work/danielsobrino/danielsobrino
+              run: ls /home/runner/work/DanielSobrino/DanielSobrino
             - name: Install submodule dependencies
               run: npm install --prefix ./submodule
             - name: Move to the submodule
               run: cd path/to/submodule
             - name: Generate the GIF
               env:
-                  CONFIG_FILE: /home/runner/work/danielsobrino/danielsobrino/configChart.json
+                  CONFIG_FILE: /home/runner/work/DanielSobrino/DanielSobrino/configChart.json
                   USERNAME: DanielSobrino
                   TOKEN: ${{ secrets.TOKEN }}
               run: npm start
