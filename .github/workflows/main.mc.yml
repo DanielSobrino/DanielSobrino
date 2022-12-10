@@ -11,8 +11,7 @@ jobs:
         steps:
             - uses: actions/checkout@v2
               with:
-                  # Add the GITHUB_TOKEN secret to the step
-                  token: ${{ secrets.TOKEN }}
+                  token: ${{ secrets.SUBMODULE_PAT }}
             - name: Print working directory
               run: pwd
             - name: List everything on the working directory
