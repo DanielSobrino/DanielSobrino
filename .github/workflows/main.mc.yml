@@ -14,10 +14,8 @@ jobs:
               run: pwd
             - name: List everything on the working directory
               run: ls /home/runner/work/DanielSobrino/DanielSobrino
-            - name: Move to the submodule
-              run: cd minecraft-contribution-chart-github
             - name: Install submodule dependencies
-              run: npm install
+              run: npm install minecraft-contribution-chart-github/package.json
             - name: Generate the GIF
               env:
                   CONFIG_FILE: /home/runner/work/DanielSobrino/DanielSobrino/minecraft-contribution-chart-github/configChart.json
