@@ -11,6 +11,9 @@
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue)
   
 <br/>
+
+![minecraft gif](https://github.com/danielsobrino/danielsobrino/blob/output/minecraft-contribution-graph.gif)
+
   
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+me&color=33cc33)](https://git.io/typing-svg)
 I love animals, reading, videogames, food and consuming internet resources.
@@ -145,7 +148,6 @@ Currently studying web development while at my first job
 <img src="https://github-readme-stats.vercel.app/api?username=danielsobrino&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 </div>  
-<a href="https://github.com/danielsobrino"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danielsobrino&custom_title=My%20Activity%20Graph&theme=react-dark" /></a>
 
 <br/>
 <br/>
