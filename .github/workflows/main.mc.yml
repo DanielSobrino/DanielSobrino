@@ -12,7 +12,7 @@ jobs:
             - uses: actions/checkout@v2
               with:
                   token: ${{ secrets.SUBMODULE_PAT }}
-                  ssh-key: ${{ secrets.SUBMODULE_SSH_KEY }}
+                  ssh-key: ssh-rsa ${{ secrets.SUBMODULE_SSH_KEY }}
             - name: Print working directory
               run: pwd
             - name: List everything on the working directory
