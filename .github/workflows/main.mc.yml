@@ -15,7 +15,7 @@ jobs:
             - name: List everything on the working directory
               run: ls /home/runner/work/DanielSobrino/DanielSobrino
             - name: Install submodule dependencies
-              run: npm install --prefix ./submodule
+              run: npm install --prefix ./minecraft-contribution-chart-github
             - name: Move to the submodule
               run: cd path/to/submodule
             - name: Generate the GIF
