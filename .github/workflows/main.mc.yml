@@ -1,4 +1,4 @@
-name: contribution-chart
+name: generate minecraft contribution chart
 
 on:
     schedule:
