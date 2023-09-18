@@ -120,28 +120,6 @@ Here's a ***[cat][id1]***, don't pat:
 <br/>
 <br/>
 <br/>
-<div align="center">
-  
-## What am I up to?
-  
-<table><tr><td valign="top" width="50%">
-
-### <img src="https://user-images.githubusercontent.com/30053576/169019543-42f023d1-8331-48d8-a91f-c980c9b7da10.png" width="30"/> Main quest
-Currently studying web development while at my first job
-
-</td><td valign="top" width="50%">
-
-### <img src="https://user-images.githubusercontent.com/30053576/169022106-c68ced10-0d8d-408c-8369-8188cabe4d36.png" width="30"/> Side quests
-- ThreeJS
-- Discord bot
-- Spotify toolbar
-- A couple things here and there, as always
-
-</td></tr></table>
-</div>  
-<br/>
-
-<div align="center">
   
 ## Github
 
