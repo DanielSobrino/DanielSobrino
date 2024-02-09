@@ -53,7 +53,8 @@ Here's a ***[cat][id1]***, don't pat:
 
 <details close>
 <summary>
-  ## Dev stuff I've put my hands on
+
+## Dev stuff I've put my hands on
   
 </summary>
 
