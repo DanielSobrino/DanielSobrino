@@ -20,7 +20,8 @@ Here's a ***[cat][id1]***, don't pat:
 
 <details open>
 <summary>
-  ## I'm comfortable with
+
+## I'm comfortable with
   
 </summary>
   
