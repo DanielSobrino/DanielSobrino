@@ -23,8 +23,6 @@ Here's a ***[cat][id1]***, don't pat:
   ## I'm comfortable with
   
 </summary>
-
-> Acknowledgement: some of the following tools I have little to barely any experience with, but they sure look fancy on my profile.
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,13 +50,13 @@ Here's a ***[cat][id1]***, don't pat:
 
 </details>
 
-<details open>
+<details close>
 <summary>
   ## Dev stuff I've put my hands on
   
 </summary>
 
-> Acknowledgement: some of the following tools I have little to barely any experience with, but they sure look fancy on my profile.
+> Acknowledgement: some of the following tools I have little to barely any experience with
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
