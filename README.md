@@ -6,15 +6,6 @@
 
 ![profile](https://user-images.githubusercontent.com/30053576/168904131-9809b903-2dba-4c93-a588-79709e048f70.gif)
   
-</div>
-
-![Visitors](https://visitor-badge.deta.dev/badge?page_id=danielsobrino.danielsobrino&left_color=DarkBlue&right_color=blue)
-  
-<br/>
-
-![minecraft gif](minecraft-contribution-graph.gif)
-
-  
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+me&color=33cc33)](https://git.io/typing-svg)
 I love animals, reading, videogames, food and consuming internet resources.
 
@@ -117,27 +108,4 @@ Here's a ***[cat][id1]***, don't pat:
 
 </details>
 
-<br/>
-<br/>
-<br/>
-  
-## Github
-
-<img src="https://github-readme-stats.vercel.app/api?username=danielsobrino&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-</div>  
-
-<br/>
-<br/>
-<br/>
-
-> ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fun+fact&width=90&height=20&vCenter=true&color=ff6600&duration=2000&font=Lobster&size=20)](https://git.io/typing-svg)
-> I lack fun facts so there you go
->
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<div align="center">
-  
-![snake gif](https://github.com/danielsobrino/danielsobrino/blob/output/github-contribution-grid-snake.gif)
-
-</div> 
